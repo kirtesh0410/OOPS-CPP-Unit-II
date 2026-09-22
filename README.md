@@ -64,8 +64,6 @@ This C++ program implements a **Vehicle Fleet Management System** for a logistic
 
 • 4)Mini Project :- Banking System with Account Hierarchy :-
 
-### Brief Description of the Mini-Project
-
 This C++ mini-project implements a **Banking System with Account Hierarchy** to manage different types of bank accounts such as **Savings Account, Current Account, and Fixed Deposit Account**.
 
 * The **`Account` base class** stores common information such as account number, account holder name, and balance.

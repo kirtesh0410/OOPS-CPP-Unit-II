@@ -1,4 +1,4 @@
-Brief descriptions of each Program :- 
+Brief descriptions of Program :- 
 
 • Employee Payroll System :-
 
